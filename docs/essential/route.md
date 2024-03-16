@@ -39,9 +39,7 @@ This code create a web server running at port 3000, and register the following p
 | /hello | Hi      |
 
 ::: tip
-By default, web browser will sent GET method when vising the page.
-
-This is why accessing get with the browser works.
+By default, when visiting a route, browsers use the GET method. This is why accessing routes directly through the browser will work.
 :::
 
 ## HTTP Verb

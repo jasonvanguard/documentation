@@ -16,7 +16,7 @@ head:
 
 # MVC Pattern
 
-Elysia is pattern agnostic framework, we the decision up to you and your team for coding patterns to use.
+Elysia is a pattern agnostic framework, we leave the decision up to you and your team for coding patterns to use.
 
 However, we found that there are several who are using MVC pattern [(Model-View-Controller)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) on Elysia, and found it's hard to decouple and handling with types.
 
